@@ -6,13 +6,6 @@
 
 **A production-style DevOps project that demonstrates how to migrate an end-to-end Jenkins pipeline to GitHub Actions while preserving the existing application and deployment target.**
 
-[![DevOps Shack](https://img.shields.io/badge/DevOps%20Shack-Migration%20Lab-2563EB?style=for-the-badge)](https://devopsshack.com)
-![Node.js](https://img.shields.io/badge/Node.js-22-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-Legacy%20Pipeline-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Migrated%20Pipeline-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-ECR%20%7C%20SSM%20%7C%20EC2-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-
 **Learn. Build. Automate. — DevOps Shack**
 
 ---
